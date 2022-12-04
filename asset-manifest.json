@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/league-of-kingdoms/static/css/main.073c9b0a.css",
-    "main.js": "/league-of-kingdoms/static/js/main.2a3830a1.js",
+    "main.js": "/league-of-kingdoms/static/js/main.95551551.js",
     "static/js/787.538ba7d5.chunk.js": "/league-of-kingdoms/static/js/787.538ba7d5.chunk.js",
     "static/media/logo.svg": "/league-of-kingdoms/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/league-of-kingdoms/index.html",
     "main.073c9b0a.css.map": "/league-of-kingdoms/static/css/main.073c9b0a.css.map",
-    "main.2a3830a1.js.map": "/league-of-kingdoms/static/js/main.2a3830a1.js.map",
+    "main.95551551.js.map": "/league-of-kingdoms/static/js/main.95551551.js.map",
     "787.538ba7d5.chunk.js.map": "/league-of-kingdoms/static/js/787.538ba7d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2a3830a1.js"
+    "static/js/main.95551551.js"
   ]
 }
