@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/league-of-kingdoms/static/css/main.073c9b0a.css",
-    "main.js": "/league-of-kingdoms/static/js/main.0ca22e1c.js",
+    "main.css": "/league-of-kingdoms/static/css/main.5f1ff76c.css",
+    "main.js": "/league-of-kingdoms/static/js/main.7415f057.js",
     "static/js/787.538ba7d5.chunk.js": "/league-of-kingdoms/static/js/787.538ba7d5.chunk.js",
     "index.html": "/league-of-kingdoms/index.html",
-    "main.073c9b0a.css.map": "/league-of-kingdoms/static/css/main.073c9b0a.css.map",
-    "main.0ca22e1c.js.map": "/league-of-kingdoms/static/js/main.0ca22e1c.js.map",
+    "main.5f1ff76c.css.map": "/league-of-kingdoms/static/css/main.5f1ff76c.css.map",
+    "main.7415f057.js.map": "/league-of-kingdoms/static/js/main.7415f057.js.map",
     "787.538ba7d5.chunk.js.map": "/league-of-kingdoms/static/js/787.538ba7d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0ca22e1c.js"
+    "static/css/main.5f1ff76c.css",
+    "static/js/main.7415f057.js"
   ]
 }
